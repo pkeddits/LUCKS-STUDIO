@@ -3,24 +3,7 @@
 
 **Site institucional e sistema de agendamento online para a Luck's Studio Barbearia, localizada em Osasco - SP.**
 
-[🔗 Acessar o Site](#) · 
-
 </div>
-
----
-
-## 📋 Índice
-
-- [Visão Geral](#-visão-geral)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Funcionalidades](#-funcionalidades)
-- [Como Executar o Projeto](#-como-executar-o-projeto)
-- [Variáveis de Ambiente](#-variáveis-de-ambiente)
-- [Banco de Dados](#-banco-de-dados)
-- [Melhorias Futuras](#-melhorias-futuras)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
 
 ---
 
