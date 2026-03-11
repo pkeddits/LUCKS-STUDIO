@@ -1,17 +1,9 @@
 # ✂️ Luck's Studio Barbearia — Site Oficial
 
-<div align="center">
-
-![Luck's Studio](https://img.shields.io/badge/Luck's%20Studio-Barbearia-yellow?style=for-the-badge)
-![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4-06B6D4?style=for-the-badge&logo=tailwindcss)
-![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=for-the-badge&logo=vite)
-![Supabase](https://img.shields.io/badge/Supabase-2.57-3ECF8E?style=for-the-badge&logo=supabase)
 
 **Site institucional e sistema de agendamento online para a Luck's Studio Barbearia, localizada em Osasco - SP.**
 
-[🔗 Acessar o Site](#) · [📅 Agendar Horário](#) · [📸 Instagram](https://www.instagram.com/lucksstudio)
+[🔗 Acessar o Site](#) · 
 
 </div>
 
